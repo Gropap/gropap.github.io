@@ -1,0 +1,58 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis KHALIL HAJIM",
+    "title1": "Développeur",
+    "title2": "logiciel",
+    "description": "Je développe des applications web et mobiles modernes et performantes avec Flutter, React, Next.js et TypeScript, en privilégiant des interfaces soignées, une expérience utilisateur intuitive et des solutions évolutives.",
+    "viewProjects": "Voir mes projets",
+    "downloadCV": "Télécharger mon CV"
+  },
+  "about": {
+    "subtitle": "Faisons connaissance",
+    "title": "À propos de moi",
+    "description": "Je suis développeur logiciel, passionné par la création d'applications web et mobiles modernes. J'utilise React, Next.js, TypeScript et Flutter pour concevoir des interfaces adaptatives, des expériences intuitives et des solutions logicielles pratiques.",
+    "web": "Développement Web",
+    "mobile": "Développement Mobile",
+    "design": "Design UI/UX",
+    "webDescription": "Sites et applications web modernes et responsives avec React, Next.js et TypeScript.",
+    "mobileDescription": "Applications Android et iOS multiplateformes développées avec Flutter et Dart.",
+    "designDescription": "Interfaces modernes et intuitives axées sur l'ergonomie et l'expérience utilisateur."
+  },
+  "skills": {
+    "subtitle": "Mes technologies",
+    "title": "Compétences techniques",
+    "description": "Technologies et outils que j'utilise pour développer des applications web et mobiles modernes.",
+    "web": "Développement Web",
+    "mobile": "Développement Mobile",
+    "backend": "Développement Backend",
+    "tools": "Outils de développement"
+  },
+  "projects": {
+    "subtitle": "Mon Portfolio",
+    "title": "Mes projets",
+    "description": "Découvrez quelques applications web et mobiles sur lesquelles j'ai travaillé.",
+    "viewDemo": "Voir la démo",
+    "viewCode": "Code source"
+  },
+  "contact": {
+    "subtitle": "Contactez-moi",
+    "title": "Travaillons ensemble",
+    "description": "Vous avez un projet en tête ? N'hésitez pas à me contacter.",
+    "name": "Votre nom",
+    "email": "Votre adresse e-mail",
+    "message": "Votre message",
+    "send": "Envoyer le message"
+  },
+  "footer": {
+    "description": "Création d'expériences web et mobiles modernes.",
+    "rights": "Tous droits réservés.",
+    "backToTop": "Retour en haut"
+  }
+}
